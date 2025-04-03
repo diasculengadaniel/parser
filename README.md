@@ -1,2 +1,2 @@
 # Parser
-A expression parser 
+A expression parser version 1.x with variable support.
